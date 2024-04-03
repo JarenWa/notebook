@@ -16,8 +16,21 @@
 
 ---
 # **Linux 操作系统分析**
+
+> ## [构造一个Linux系统并跟踪分析Linux内核启动过程](./content/linux/linux-mykernel.md)
+
 > ## [在Linux系统中程序是如何执行的？](./content/linux/programs-execute-on-linux.md)
 
+
+---
+# **工具库**
+
+
+---
+# **关于**
+> ## [本站打造方法](./content/regarding/build-this-website.md)
+
+> ## 关于作者
 
 ---
 # **持续更新中...**

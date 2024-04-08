@@ -13,6 +13,14 @@
 # **为什么会有这个网站**
 > 希望在有限的时间里，留下一点系统化的印记!
 
+---
+# **计算机基础**
+> ## [计算机网络](./content/computer/network/network.md)
+
+---
+# **Demo**
+<!-- > ##  **搭建一个网盘系统** -->
+> ## [手写一个简易的 Tomcat 服务器](/content/project/tomcat/tomcat.md)
 
 ---
 # **Linux 操作系统分析**
@@ -21,10 +29,10 @@
 
 > ## [在Linux系统中程序是如何执行的？](./content/linux/programs-execute-on-linux.md)
 
-
+<!-- 
 ---
-# **工具库**
-
+# **[常用工具](./content/tool/tool.md)**
+ -->
 
 ---
 # **关于**

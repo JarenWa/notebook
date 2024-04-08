@@ -17,7 +17,7 @@
 
 ## 1.2 安装 [Node.js](https://nodejs.org/en)
 docsify 框架需要有 npm 工具, 即安装 node.js 可以支持
-- [Nodejs 安装教材](https://www.cnblogs.com/goldlong/p/8027997.html)
+- [Nodejs 安装教程](https://www.cnblogs.com/goldlong/p/8027997.html)
 
 ## 1.3 安装 [Docsify](https://docsify.js.org/)
 安装 docsify-cli 工具, 可以方便创建及本地预览文档网站, 直接打开 cmd 窗口执行命令
@@ -121,7 +121,8 @@ git branch -M main // 本地 master 分支重命名为 main
 
 # 4 补充
 ## 4.1 如何优化站点
-> 待更新......
+[Docsify 进阶配置](https://clotliu.com/archives/docsify-advanced)
+> 持续更新中......
 ## 4.2 如何高效管理文档结构
 > 待更新......
 

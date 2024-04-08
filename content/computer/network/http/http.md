@@ -15,7 +15,7 @@ HTTP：Hyper Text Transfer Protocol(超文本传输协议)规定了客户端和�
 
 # 2 HTTP 请求和响应数据的具体格式
 
-# 2.1 HTTP 请求协议
+## 2.1 HTTP 请求协议
 
 GET 方法
 
@@ -25,7 +25,7 @@ POST 方法
 
 ![2024-04-08-17-07-26.png](assets/2024-04-08-17-07-26.png)
 
-# 2.2 HTTP 响应协议
+## 2.2 HTTP 响应协议
 
 ![2024-04-08-17-04-15.png](assets/2024-04-08-17-04-15.png)
 
@@ -52,7 +52,3 @@ Connection: keep-alive
 </body>
 </html>
 ```
-
-<br>
-
-# 3 [手写 Tomcat](/content/project/tomcat/tomcat.md)

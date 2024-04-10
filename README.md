@@ -20,7 +20,7 @@
 
 ---
 # **Java 程序员进阶之路**
-> ## [Java 程序员基础巩固](./content/java/java01/java01.md)
+> ## [Java 初级程序员基础巩固](./content/java/java-promotion-01.md)
 
 <!-- 
 ---

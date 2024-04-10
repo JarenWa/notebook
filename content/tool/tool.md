@@ -9,5 +9,5 @@
 
 <br>
 
-# 2 
-## 2.1 
+# Mysql
+[MySql错误 1251 - Client does not support authentication protocol requested by server 解决方案](https://blog.csdn.net/OCEAN_C/article/details/89719578)

@@ -17,10 +17,22 @@
 # **计算机基础**
 > ## [计算机网络](./content/computer/network/network.md)
 
+
+---
+# **Java 程序员进阶之路**
+> ## [Java 程序员基础巩固](./content/java/java01/java01.md)
+
+<!-- 
+---
+# **项目**
+> ##  **搭建一个网盘系统** -->
+
+
+
 ---
 # **Demo**
-<!-- > ##  **搭建一个网盘系统** -->
-> ## [手写一个简易的 Tomcat 服务器](/content/project/tomcat/tomcat.md)
+> ## [手写一个简易的 Tomcat 服务器](/content/demo/tomcat/tomcat.md)
+> ## [Kafka 入门实例](/content/demo/kafka/kafka.md)
 
 ---
 # **Linux 操作系统分析**
@@ -28,6 +40,12 @@
 > ## [构造一个Linux系统并跟踪分析Linux内核启动过程](./content/linux/linux-mykernel.md)
 
 > ## [在Linux系统中程序是如何执行的？](./content/linux/programs-execute-on-linux.md)
+
+
+<!-- ---
+# **阅读** 
+[鸠摩搜索](https://www.jiumodiary.com/)
+> ## [技术类](/content/read/tech/tech.md) -->
 
 <!-- 
 ---

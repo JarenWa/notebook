@@ -6,7 +6,7 @@
 
 
 # 1 概述
-本文使用 Java 的 ServerSocket 和 Socket 类, 实现一个简单的服务器, 理解 HTTP 解析过程
+本文使用 Java 的 ServerSocket 和 Socket 类, 实现一个简单的能处理 HTTP 请求的服务器, 理解 HTTP 解析过程
 
 HTTP 定义了客户端和服务端之间数据交换的规范, 要实现一个 HTTP 服务器, 大致分为以下几个方面:
 - 监听客户端请求

@@ -17,9 +17,9 @@
 
 - 泛型
 
-- 动态代理
+- 多线程、ThreadLocal
 
-- ThreadLocal
+- 动态代理
 
 - Servlet、JSP
 

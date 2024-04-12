@@ -15,12 +15,13 @@
 
 ---
 # **计算机基础**
-> ## [计算机网络](./content/computer/network/network.md)
+> ## [计算机网络](/content/computer/network/network.md)
 
 
 ---
 # **Java 程序员进阶之路**
-> ## [Java 初级程序员基础巩固](./content/java/java-promotion-01.md)
+> ## [Java 初级程序员基础巩固](/content/java/java-promotion-junior.md)
+> ## [中间件](/content/java/java-middleware.md)
 
 <!-- 
 ---
@@ -32,14 +33,13 @@
 ---
 # **Demo**
 > ## [手写一个简易的 Tomcat 服务器](/content/demo/tomcat/tomcat.md)
-> ## [Kafka 入门实例](/content/demo/kafka/kafka.md)
 
 ---
 # **Linux 操作系统分析**
 
-> ## [构造一个Linux系统并跟踪分析Linux内核启动过程](./content/linux/linux-mykernel.md)
+> ## [构造一个Linux系统并跟踪分析Linux内核启动过程](/content/linux/linux-mykernel.md)
 
-> ## [在Linux系统中程序是如何执行的？](./content/linux/programs-execute-on-linux.md)
+> ## [在Linux系统中程序是如何执行的？](/content/linux/programs-execute-on-linux.md)
 
 
 <!-- ---
@@ -54,7 +54,7 @@
 
 ---
 # **关于**
-> ## [本站打造方法](./content/regarding/build-this-website.md)
+> ## [本站打造方法](/content/regarding/build-this-website.md)
 
 > ## 关于作者
 

@@ -6,8 +6,6 @@
 
 # Git
 > [Git 详解](https://pdai.tech/md/devops/tool/tool-git.html)
->
-> [Git教程推荐](https://www.zhihu.com/column/learn4fun)
 
 <br>
 

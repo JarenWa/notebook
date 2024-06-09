@@ -14,6 +14,10 @@
 > 希望在有限的时间里，留下一点系统化的印记!
 
 ---
+# **Java 实现 RPC 框架**
+> ## [总览]()
+
+---
 # **计算机基础**
 > ## [计算机网络](/content/computer/network/network.md)
 
@@ -40,6 +44,10 @@
 > ## [构造一个Linux系统并跟踪分析Linux内核启动过程](/content/linux/linux-mykernel.md)
 
 > ## [在Linux系统中程序是如何执行的？](/content/linux/programs-execute-on-linux.md)
+
+
+# **一些问题的解决方案**
+> ## [VScode 使用问题](/content/fix/vscode/vscode.md)
 
 
 <!-- ---

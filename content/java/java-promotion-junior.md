@@ -9,17 +9,20 @@
 
 要对 Spring/SpringBoot 有深刻的理解，我们还需要把一些基础内容吃透。
 
+---
 
-- [反射](/content/java/java-basic/reflect/reflect.md)
+- [反射](/content/java/java-basic-01/reflect/reflect.md)
 
 - 注解
 <!-- - (/content/java/java-basic/annotation/annotation.md) -->
 
 - 泛型
 
-- 多线程、ThreadLocal
+- [代理模式](https://javaguide.cn/java/basis/proxy.html)
 
-- 动态代理
+---
+
+- 多线程、ThreadLocal
 
 - Servlet、JSP
 

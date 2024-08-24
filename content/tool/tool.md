@@ -91,6 +91,11 @@ git remote add upstream <新的远程仓库 URL>
 这样，您就可以同时使用 origin 和 upstream
 ```
 
+使用 curl 或 ping 命令来测试与 GitHub 的连接。例如：
+```bash
+curl -I https://github.com
+ping github.com
+```
 <br>
 
 # npm

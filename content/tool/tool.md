@@ -94,6 +94,9 @@ git remote add origin <新的远程仓库 URL>
 使用不同的远程名称，如果您希望保留现有的 origin 并添加另一个远程仓库，可以使用不同的名称。例如：
 git remote add upstream <新的远程仓库 URL>
 这样，您就可以同时使用 origin 和 upstream
+
+SSH 认证的用户名
+ssh -T git@github.com 
 ```
 
 使用 curl 或 ping 命令来测试与 GitHub 的连接。例如：

@@ -5,6 +5,14 @@
 
 # Windows 常用命令
 
+---
+
+# MIT 6.NULL: The Missing Semester of Your CS Education
+[课程链接](https://missing.csail.mit.edu/)
+
+[笔记](https://segmentfault.com/a/1190000039107866)
+
+[Shell](./shell.md)
 
 ---
 

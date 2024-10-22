@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //Promise 对象执行异步操作
+        let promise = new Promise((reslove, reject) => {
+
+        })
+        console.log("promise", promise)
+
+        let promise1 = new Promise((reslove, reject) => {
+            reslove("已经执行成功")
+        })
+        console.log("promise1", promise1)
+        
+        promise.then(result => {
+            console.log("result:", result)
+        })
+
+        let promise2 = new Promise((reslove, reject) => {
+            reject("执行失败")
+        })
+        console.log("promise2", promise2)
+        promise2.catch(error => {
+            console.log("error:", error)
+        })
+
+
+        let promise3 = new Promise((reslove, reject) => {
+            reject("执行失败")
+        }).then(result => {
+            console.log("result:", result)
+        }).catch(error => {
+            console.log("error:", error)
+        }).finally(() => {
+            console.log("异步执行结束")
+        })
+
+
+        fetch('http://127.0.0.1/post', {
+            method:'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: new URLSearchParams({
+                name:'jaren',
+            }),
+        }).then(response => {
+            return response.json()
+        }).then(data => {
+            console.log(data)
+        })
+
+
+
+
+    </script>
+    
+</body>
+</html>

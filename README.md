@@ -13,6 +13,15 @@
 # **为什么会有这个网站**
 > 希望在有限的时间里，留下一点系统化的印记!
 
+--- 
+# TODO List.
+刷 LeetCode hot 100 - 11月
+
+RESTful API
+
+MySql 索引
+
+
 ---
 # SpringBoot + Vue 前后端分离增删改查
 
@@ -26,8 +35,8 @@
 
 
 ---
-# **Java 程序员进阶之路**
-> ## [Java 初级程序员基础巩固](/content/java/java-promotion-junior.md)
+# **Java **
+> ## [Java 基础巩固](/content/java/java-promotion-junior.md)
 > ## [中间件](/content/java/java-middleware.md)
 
 <!-- 
@@ -76,5 +85,5 @@
 ---
 # **持续更新中...**
 
-> 网站内容会持续保持更新，欢迎收藏品鉴!
+<!-- > 网站内容会持续保持更新，欢迎收藏品鉴! -->
 ---

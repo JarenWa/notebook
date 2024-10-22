@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // 解构
+        let [x, y] = [1, 2]
+        console.log("x:", x)
+        let [, , ,m] = [1,2,3,4]
+        console.log("m:", m)
+        let [a, ...b] = [1,2,3,4,4,5,6,9]
+        console.log("b:",b)
+
+
+        let person = {
+            name:'jaren',
+            age:19
+        }
+        let {name} = person
+        console.log("name:", name)
+
+
+        let {name:userName, age} = person //重命名
+        console.log("userName:", userName, "age:", age)
+
+        let {address = "sichaun"} = person //默认值
+        console.log("address:", address)
+
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // 常量
+        const PI = 3.14
+        console.log(PI)
+                
+        //PI = 3
+
+
+        // 变量
+        // 字符串类型 string
+        let name = "wangjie"
+        console.log(name)
+        console.log(typeof name)
+        name = "wj"
+        
+        // 数值类型 number
+        let total = 100
+        let balance = 1.1
+        console.log(balance)
+        console.log(typeof balance)
+
+        // 布尔类型 boolean
+
+        // 对象 object
+        let boy = {
+            name:"Wangjie",
+            age:20,
+            weight:60.3
+        }
+        console.log("boy",boy)
+        console.log(typeof boy)
+
+        // map
+        let girl = new Map ([
+            ["name","Luna"],
+            ["age",18]
+        ])
+        console.log("girl",girl)
+        console.log(typeof girl)
+
+        // set
+        let number = new Set([1,2,3,1,"2"])
+        console.log("number",number)
+        console.log(typeof number)
+
+        // 数组 array
+        let arr = [1,"a","C"]
+        console.log("arr",arr)
+        console.log(typeof arr)
+
+        // 函数 function
+        function add(x,y) {
+            console.log(x+y)
+        }
+        add(20,30)
+
+        // 类 class
+        class Person{
+            name
+            age
+            constructor(name,age){
+                this.name = name;
+                this.age = age;
+            }
+            info(){
+                console.log("name",this.name,"age",this.age)
+            }
+        }
+
+        let person = new Person("小明",20)
+        person.info()
+
+
+        function getWeb() {
+            let web = "jarenw.com"
+            return web
+        }
+        console.log(getWeb())
+
+
+        function add(number) {
+            return number + 10
+        }
+        console.log(add(10))
+
+        //默认值
+        function getPage(page = 1) {
+            return page
+        }
+        console.log(getPage())
+        console.log(getPage(11))
+
+        //匿名函数
+        // [回调函数]
+        let sub = function(x, y) { //函数赋值给了一个变量 sub，函数本身没有一个具名标识符
+            return x - y
+        }
+        console.log("sub", sub(5, 10))
+
+        //箭头函数
+        let plus = (a, b) => { //省略 function ，添加 =>
+            return a + b
+        }
+        console.log("plus", plus(1, 2))
+
+        //隐式返回
+        let plus2 = (a, b) => a + b   // 只有一个表达式，省略{}和return关键字
+        console.log("plus2", plus2(2, 3))
+
+
+
+        // Set
+        let fruits = new Set()
+        let fruits2 = new Set(['apple', 'orange', 'banana'])
+        console.log(fruits2)
+
+        let arrs1 = Array.from(fruits2)
+        console.log(arrs1)
+        console.log(arrs1[1])
+
+            // 扩展运算符
+        let arrs2 = [...fruits2]
+        console.log(arrs2)
+
+
+
+        
+
+
+
+
+        
+
+
+    </script>
+    
+</body>
+</html>
